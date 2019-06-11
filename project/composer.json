@@ -1,0 +1,12 @@
+{
+    "name": "abandon/hello-composer-project",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/1620428040/hello-composer-package"
+        }
+    ],
+    "require": {
+        "abandon/hello-composer-package": "dev-master"
+    }
+}
